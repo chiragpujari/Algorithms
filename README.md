@@ -1,4 +1,3 @@
 # Algorithm
-Equation of line:
-+--------+
-|y=mx+c  |
+#Equation of line:
+#y=mx+c
